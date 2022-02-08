@@ -1,0 +1,14 @@
+.row {
+    vertical-align: bottom;
+}
+
+.cell {
+    padding: 0px 16px 0px 0px;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    border-bottom: none;
+}
+
+.cell_data {
+    font-weight: 600;
+}
